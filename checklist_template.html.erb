@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <title><%= @title %></title>
+    <link res='text/css' rel='stylesheet' href='../checklist.css' />
+  </head>
+
+  <body>
+      <% @lego_pieces.each_slice(@slice_count) do |piece_group| %>
+        <table>
+          <thead>
+            <tr>
+              <th colspan=6><%= @title %></th>
+            </tr>
+            <tr>
+              <th class='center-align'>Got It?</th>
+              <th class='center-align'>Piece ID</th>
+              <th class='center-align'>#</th>
+              <th>Color</th>
+              <th class='center-align'>Image</th>
+              <th>Description</th>
+            </tr>
+          </thead>
+          <tbody>
+            <% piece_group.each do |piece| %>
+              <tr>
+                <td class='center-align'><div class='checkbox'></div></td>
+                <td class='center-align' style='width: 50px;'><%= piece['PartID'] %></td>
+                <td class='center-align' style='width: 20px;'><%= piece['Quantity'] %></td>
+                <td style='width: 70px;'><%= piece['Colour'] %></td>
+                <td class='center-align'><img src="<%= piece['ImageURL'] %>" class='piece'/></td>
+                <td style='width: 80px;'><%= piece['PartName'] %></td>
+              </tr>
+            <% end %>
+          </tbody>
+        </table>
+      <% end %>
+  </body>
+</html>
