@@ -1,214 +1,199 @@
 SetNumber,PartID,Quantity,Colour,Category,DesignID,PartName,ImageURL,SetCount
-"60014-1",4297719,1,"Black","Duplo: Miscellaneous Elements",56823,"String Poly 0,5Mm On Spool","http://cache.lego.com/media/bricks/5/1/4297719.jpg",125
-"60014-1",300326,10,"Black","System: Bricks",3003,"Brick 2X2","http://cache.lego.com/media/bricks/5/1/300326.jpg",538
-"60014-1",4647286,2,"Black","System: Bricks With Bows And Arches",93606,"Brick W. Bow 2X4","http://cache.lego.com/media/bricks/5/1/4647286.jpg",43
-"60014-1",6007896,2,"Black","System: Bricks, With Slope",98560,"Roof Tile 2X2X3/ 73 Gr.","http://cache.lego.com/media/bricks/5/1/6007896.jpg",15
-"60014-1",4159335,2,"Black","System: Connectors",41532,"Stub W. Friction Bush 3 M","http://cache.lego.com/media/bricks/5/1/4159335.jpg",156
-"60014-1",4507820,2,"Black","System: Connectors",30554,"Link 1M Fric/Fork/Stumpf","http://cache.lego.com/media/bricks/5/1/4507820.jpg",52
-"60014-1",4185272,1,"Black","System: Decoration Elements",44675,"2X2 Front With Suction","http://cache.lego.com/media/bricks/5/1/4185272.jpg",31
-"60014-1",6021752,1,"Black","System: Decoration Elements",44675,"2X2 Front With Suction","http://cache.lego.com/media/bricks/5/1/6021752.jpg",14
-"60014-1",6040336,2,"Black","System: Decoration Elements",14137,"Flap 2X8 Friction/Fork","http://cache.lego.com/media/bricks/5/1/6040336.jpg",19
-"60014-1",396226,1,"Black","System: Figure Accessories In Hand",3962,"Walkie-Talkie","http://cache.lego.com/media/bricks/5/1/396226.jpg",212
-"60014-1",6100054,1,"Black","System: Figure Accessories In Hand",19220,"Walkie-Talkie","http://cache.lego.com/media/bricks/5/1/6100054.jpg",103
-"60014-1",6036006,1,"Black","System: Figure, Head Clothing",14045,"Headset W. Shaft Ø1.5","http://cache.lego.com/media/bricks/5/1/6036006.jpg",18
-"60014-1",258426,1,"Black","System: Functional Elements",2584,"Drum Holder 2X2","http://cache.lego.com/media/bricks/5/1/258426.jpg",84
-"60014-1",407926,2,"Black","System: Interior",4079,"Seat 2X2X2","http://cache.lego.com/media/bricks/5/1/407926.jpg",86
-"60014-1",317626,2,"Black","System: Plates, Special",3176,"Coupling Plate 2X2","http://cache.lego.com/media/bricks/5/1/317626.jpg",134
-"60014-1",383926,1,"Black","System: Plates, Special",3839,"Mini Handle","http://cache.lego.com/media/bricks/5/1/383926.jpg",164
-"60014-1",4144023,1,"Black","System: Plates, Special",32529,"T-Beam W. Plate 1X2 W. Knob","http://cache.lego.com/media/bricks/5/1/4144023.jpg",55
-"60014-1",4535739,6,"Black","System: Plates, Special",63868,"Plate 2X1 W/Holder,Vertical","http://cache.lego.com/media/bricks/5/1/4535739.jpg",173
-"60014-1",6020193,1,"Black","System: Plates, Special",99780,"Angular Plate 1.5 Bot. 1X2 1/2","http://cache.lego.com/media/bricks/5/1/6020193.jpg",159
-"60014-1",403226,1,"Black","System: Plates, Special Circles And Angles",4032,"Plate 2X2 Round","http://cache.lego.com/media/bricks/5/1/403226.jpg",412
-"60014-1",4278359,4,"Black","System: Plates, Special Circles And Angles",2654,"Slide Shoe Round 2X2","http://cache.lego.com/media/bricks/5/1/4278359.jpg",241
-"60014-1",6145492,1,"Black","System: Rubbers And Strings",23198,"100% Polyester Yarn Ø0,5Mm,0,5M","http://cache.lego.com/media/bricks/4/1/6145492.jpg",48
-"60014-1",395726,1,"Black","System: Signs, Flags And Poles",3957,"Whip/Aerial","http://cache.lego.com/media/bricks/5/1/395726.jpg",210
-"60014-1",247926,1,"Black","System: Transportation Means, Aviation",2479,"Rotor","http://cache.lego.com/media/bricks/5/1/247926.jpg",142
-"60014-1",4289255,1,"Black","System: Transportation Means, Aviation",2421,"Propeller","http://cache.lego.com/media/bricks/5/1/4289255.jpg",60
-"60014-1",4660876,2,"Black","System: Transportation Means, Aviation",98302,"Jet Engine","http://cache.lego.com/media/bricks/5/1/4660876.jpg",19
-"60014-1",604126,3,"Black","System: Transportation Means, Ships",6041,"Propeller W. 3 Blades Ø26.6","http://cache.lego.com/media/bricks/5/1/604126.jpg",90
-"60014-1",6021604,1,"Black","System: Transportation Means, Vehicles",10885,"Plate 1X2 W. Radiator","http://cache.lego.com/media/bricks/5/1/6021604.jpg",6
-"60014-1",4217725,1,"Black","System: Wheel Base",47720,"Plate 2X2 (4M) W. Snap Ø4.85","http://cache.lego.com/media/bricks/5/1/4217725.jpg",66
-"60014-1",370526,1,"Black","Technic: Connectors",3705,"Cross Axle 4M","http://cache.lego.com/media/bricks/5/1/370526.jpg",959
-"60014-1",370726,2,"Black","Technic: Connectors",3707,"Cross Axle 8M","http://cache.lego.com/media/bricks/5/1/370726.jpg",493
-"60014-1",4121715,6,"Black","Technic: Connectors",2780,"Connector Peg W. Friction","http://cache.lego.com/media/bricks/5/1/4121715.jpg",1722
-"60014-1",4238840,2,"Black","Technic: Connectors",48496,"Double Snap 2M, Ø 4,85","http://cache.lego.com/media/bricks/5/1/4238840.jpg",21
-"60014-1",4666579,2,"Brick Yellow","Technic: Connectors",6562,"Connector Peg/Cross Axle","http://cache.lego.com/media/bricks/5/1/4666579.jpg",638
-"60014-1",4597338,4,"Bright Blue","System: Decoration Elements",61409,"Roof Tile W. Lattice 1X2X2/3","http://cache.lego.com/media/bricks/5/1/4597338.jpg",29
-"60014-1",6032176,2,"Bright Blue","System: Figure, Head Clothing",11303,"Figur Head Clothing No 6","http://cache.lego.com/media/bricks/5/1/6032176.jpg",19
-"60014-1",407923,2,"Bright Blue","System: Interior",4079,"Seat 2X2X2","http://cache.lego.com/media/bricks/5/1/407923.jpg",109
-"60014-1",9341,4,"Bright Blue","System: Mini Figure",73200,"Mini Body Lowerpart Blue","http://cache.lego.com/media/bricks/5/1/9341.jpg",390
-"60014-1",241223,10,"Bright Blue","System: Plates",2412,"Radiator Grille 1X2","http://cache.lego.com/media/bricks/5/1/241223.jpg",116
-"60014-1",302123,2,"Bright Blue","System: Plates",3021,"Plate 2X3","http://cache.lego.com/media/bricks/5/1/302123.jpg",275
-"60014-1",303423,2,"Bright Blue","System: Plates",3034,"Plate 2X8","http://cache.lego.com/media/bricks/5/1/303423.jpg",115
-"60014-1",371023,4,"Bright Blue","System: Plates",3710,"Plate 1X4","http://cache.lego.com/media/bricks/5/1/371023.jpg",334
-"60014-1",447723,1,"Bright Blue","System: Plates",4477,"Plate 1X10","http://cache.lego.com/media/bricks/5/1/447723.jpg",71
-"60014-1",4118785,3,"Bright Blue","System: Plates",6636,"Flat Tile 1X6","http://cache.lego.com/media/bricks/5/1/4118785.jpg",63
-"60014-1",4565319,5,"Bright Blue","System: Plates",87580,"Plate 2X2 W 1 Knob","http://cache.lego.com/media/bricks/5/1/4565319.jpg",29
-"60014-1",4610354,1,"Bright Blue","System: Plates",92438,"Plate 8X16","http://cache.lego.com/media/bricks/5/1/4610354.jpg",11
-"60014-1",4498155,1,"Bright Blue","System: Plates, Special Circles And Angles",43722,"Right Plate 2X3 W/Angle","http://cache.lego.com/media/bricks/5/1/4498155.jpg",37
-"60014-1",4498156,1,"Bright Blue","System: Plates, Special Circles And Angles",43723,"Left Plate 2X3 W/Angle","http://cache.lego.com/media/bricks/5/1/4498156.jpg",36
-"60014-1",4514553,2,"Bright Blue","Technic: Connectors",6558,"Connector Peg W. Friction 3M","http://cache.lego.com/media/bricks/5/1/4514553.jpg",585
-"60014-1",6034492,1,"Bright Green","System: Transportation Means, Ships",62812,"Rubber Boat 22X10X3","http://cache.lego.com/media/bricks/5/1/6034492.jpg",1
-"60014-1",4153827,2,"Bright Orange","System: Bricks",3001,"Brick 2X4","http://cache.lego.com/media/bricks/5/1/4153827.jpg",102
-"60014-1",4251969,2,"Bright Orange","System: Bricks With Bows And Arches",50950,"Brick W/Bow 1/3","http://cache.lego.com/media/bricks/5/1/4251969.jpg",28
-"60014-1",4662204,1,"Bright Orange","System: Bricks With Slope, Special",43710,"Left Roof Tile 2X4 W/Angle","http://cache.lego.com/media/bricks/5/1/4662204.jpg",6
-"60014-1",4662210,1,"Bright Orange","System: Bricks With Slope, Special",43711,"Right Roof Tile 2X4 W/Angle","http://cache.lego.com/media/bricks/5/1/4662210.jpg",6
-"60014-1",4141089,12,"Bright Orange","System: Bricks, Special Circles And Angles",6143,"Brick Ø16 W. Cross","http://cache.lego.com/media/bricks/5/1/4141089.jpg",39
-"60014-1",4532970,12,"Bright Orange","System: Bricks, Special Circles And Angles",30367,"Final Brick 2X2","http://cache.lego.com/media/bricks/5/1/4532970.jpg",19
-"60014-1",4118828,6,"Bright Orange","System: Bricks, With Slope",3039,"Roof Tile 2X2/45°","http://cache.lego.com/media/bricks/5/1/4118828.jpg",59
-"60014-1",4214921,1,"Bright Orange","System: Mini Figure",73200,"Mini Lower Part Koks/Orange","http://cache.lego.com/media/bricks/5/1/4214921.jpg",33
-"60014-1",4580475,1,"Bright Orange","System: Mini Figure",76382,"Mini Upper Part No. 1585","http://cache.lego.com/media/bricks/5/1/4580475.jpg",13
-"60014-1",6035126,1,"Bright Orange","System: Mini Figure",76382,"Mini Upper Part No 2351","http://cache.lego.com/media/bricks/5/1/6035126.jpg",4
-"60014-1",4654448,1,"Bright Orange","System: Miscellaneous Elements",96874,"Element Seperator","http://cache.lego.com/media/bricks/5/1/4654448.jpg",367
-"60014-1",4118782,2,"Bright Orange","System: Plates",3710,"Plate 1X4","http://cache.lego.com/media/bricks/5/1/4118782.jpg",110
-"60014-1",4158355,2,"Bright Orange","System: Plates",3020,"Plate 2X4","http://cache.lego.com/media/bricks/5/1/4158355.jpg",146
-"60014-1",4177932,3,"Bright Orange","System: Plates",3023,"Plate 1X2","http://cache.lego.com/media/bricks/5/1/4177932.jpg",150
-"60014-1",4524966,8,"Bright Orange","System: Plates",6636,"Flat Tile 1X6","http://cache.lego.com/media/bricks/5/1/4524966.jpg",17
-"60014-1",4650690,8,"Bright Orange","System: Plates",6636,"Flat Tile 1X6","http://cache.lego.com/media/bricks/5/1/4650690.jpg",10
-"60014-1",6034497,1,"Bright Orange","System: Plates",3033,"Plate 6X10","http://cache.lego.com/media/bricks/5/1/6034497.jpg",6
-"60014-1",4190164,1,"Bright Orange","System: Plates, Special",2540,"Plate 1X2 W. Stick","http://cache.lego.com/media/bricks/5/1/4190164.jpg",39
-"60014-1",6037414,3,"Bright Orange","System: Plates, Special",92411,"Angle Plate 1X2 / 2X2","http://cache.lego.com/media/bricks/5/1/6037414.jpg",13
-"60014-1",4538144,2,"Bright Orange","Technic: Connectors",62462,"Tube W/Double Ø4.85","http://cache.lego.com/media/bricks/5/1/4538144.jpg",12
-"60014-1",4610843,2,"Bright Red","System: Bricks, Special Circles And Angles",87081,"Brick 4X4 Round W. Ø4.9 W. Kl.","http://cache.lego.com/media/bricks/5/1/4610843.jpg",9
-"60014-1",389921,1,"Bright Red","System: Figure Accessories In Hand",3899,"Mug","http://cache.lego.com/media/bricks/5/1/389921.jpg",177
-"60014-1",4562544,1,"Bright Red","System: Figure, Head Clothing",86035,"Mini U.S. Cap","http://cache.lego.com/media/bricks/5/1/4562544.jpg",68
-"60014-1",4525464,2,"Bright Yellow","System: Bricks, Special Circles And Angles",59900,"Nose Cone Small 1X1","http://cache.lego.com/media/bricks/5/1/4525464.jpg",92
-"60014-1",4215263,2,"Bright Yellow","System: Figure Accessories In Hand",2516,"Tool Holder","http://cache.lego.com/media/bricks/5/1/4215263.jpg",22
-"60014-1",4527354,2,"Bright Yellow","System: Figure Accessories In Hand",30340,"Lifebuoy With Knob","http://cache.lego.com/media/bricks/5/1/4527354.jpg",30
-"60014-1",4648281,5,"Bright Yellow","System: Figure Accessories, Upper Body",97895,"Life Jacket","http://cache.lego.com/media/bricks/5/1/4648281.jpg",37
-"60014-1",4261301,1,"Bright Yellow","System: Figure, Heads And Masks",51521,"Mini Head No. 386","http://cache.lego.com/media/bricks/5/1/4261301.jpg",31
-"60014-1",4261572,1,"Bright Yellow","System: Figure, Heads And Masks",51523,"Mini Head No. 389","http://cache.lego.com/media/bricks/5/1/4261572.jpg",104
-"60014-1",4570663,1,"Bright Yellow","System: Figure, Heads And Masks",89164,"Mini Head No. 646","http://cache.lego.com/media/bricks/5/1/4570663.jpg",11
-"60014-1",4651441,1,"Bright Yellow","System: Figure, Heads And Masks",99566,"Mini Head No 891","http://cache.lego.com/media/bricks/5/1/4651441.jpg",83
-"60014-1",4651443,1,"Bright Yellow","System: Figure, Heads And Masks",99570,"Mini Head No. 893","http://cache.lego.com/media/bricks/5/1/4651443.jpg",93
-"60014-1",6022354,1,"Bright Yellow","System: Figure, Heads And Masks",99509,"Mini Head 'No. 889'","http://cache.lego.com/media/bricks/5/1/6022354.jpg",19
-"60014-1",6112622,1,"Bright Yellow","System: Figure, Heads And Masks",21023,"Mini Head 'No. 1663'","http://cache.lego.com/media/bricks/5/1/6112622.jpg",34
-"60014-1",6112633,1,"Bright Yellow","System: Figure, Heads And Masks",21027,"Mini Head 'No. 1666'","http://cache.lego.com/media/bricks/5/1/6112633.jpg",16
-"60014-1",486524,2,"Bright Yellow","System: Frames, Windows, Walls And Doors",4865,"Wall Element 1X2X1","http://cache.lego.com/media/bricks/5/1/486524.jpg",78
-"60014-1",306824,1,"Bright Yellow","System: Plates",3068,"Flat Tile 2X2","http://cache.lego.com/media/bricks/5/1/306824.jpg",137
-"60014-1",366624,1,"Bright Yellow","System: Plates",3666,"Plate 1X6","http://cache.lego.com/media/bricks/5/1/366624.jpg",189
-"60014-1",4558172,4,"Bright Yellow","System: Plates",63864,"Flat Tile 1X3","http://cache.lego.com/media/bricks/5/1/4558172.jpg",43
-"60014-1",4611704,2,"Bright Yellow","System: Plates, Special",88072,"Plate 1X2 W. Vertical Schaft","http://cache.lego.com/media/bricks/5/1/4611704.jpg",26
-"60014-1",74156,5,"Bright Yellow","System: Signs, Flags And Poles",73587,"Mini Antenna Yell./Black","http://cache.lego.com/media/bricks/5/1/74156.jpg",131
-"60014-1",4639064,2,"Bright Yellow","System: Signs, Flags And Poles",2569,"Antenna 1X1X8","http://cache.lego.com/media/bricks/5/1/4639064.jpg",8
-"60014-1",4612112,1,"Bright Yellow","System: Transportation Means, Ships",4289,"Lantern Mast 2X2X3","http://cache.lego.com/media/bricks/5/1/4612112.jpg",3
-"60014-1",9553,1,"Bright Yellow","System: Transportation Means, Vehicles",73081,"Console W/St Wheel Ye/Bl","http://cache.lego.com/media/bricks/5/1/9553.jpg",186
-"60014-1",4526983,2,"Bright Yellow","Technic: Connectors",62462,"Tube W/Double Ø4.85","http://cache.lego.com/media/bricks/5/1/4526983.jpg",44
-"60014-1",4568934,1,"Dark Brown","System: Figure, Wigs",88283,"Mini Wig No. 8","http://cache.lego.com/media/bricks/5/1/4568934.jpg",22
-"60014-1",4562882,3,"Dark Stone Grey","System: Animals And Creatures",87587,"Shark, Jaw","http://cache.lego.com/media/bricks/5/1/4562882.jpg",9
-"60014-1",6044722,3,"Dark Stone Grey","System: Animals And Creatures",14518,"Shark Body 6X9","http://cache.lego.com/media/bricks/5/1/6044722.jpg",14
-"60014-1",6107827,3,"Dark Stone Grey","System: Animals And Creatures",20650,"Shark, Jaw 'No. 1'","http://cache.lego.com/media/bricks/5/1/6107827.jpg",13
-"60014-1",4211085,5,"Dark Stone Grey","System: Bricks",3001,"Brick 2X4","http://cache.lego.com/media/bricks/5/1/4211085.jpg",242
-"60014-1",4648256,1,"Dark Stone Grey","System: Bricks With Bows And Arches",93273,"Plate W. Bow 1X4X2/3","http://cache.lego.com/media/bricks/5/1/4648256.jpg",96
-"60014-1",4513326,2,"Dark Stone Grey","System: Bricks, Special",54782,"Wall Element 2X4X6, Mountain","http://cache.lego.com/media/bricks/5/1/4513326.jpg",42
-"60014-1",4211111,1,"Dark Stone Grey","System: Bricks, Special Ø4.85 Hole And Connecting Bush",3700,"Technic Brick 1X2, Ø4.9","http://cache.lego.com/media/bricks/5/1/4211111.jpg",217
-"60014-1",4210637,3,"Dark Stone Grey","System: Bricks, With Slope",30363,"Roof Tile 2X4X1, 18°","http://cache.lego.com/media/bricks/5/1/4210637.jpg",62
-"60014-1",4211135,5,"Dark Stone Grey","System: Bricks, With Slope",3040,"Roof Tile 1X2/45°","http://cache.lego.com/media/bricks/5/1/4211135.jpg",261
-"60014-1",4210801,2,"Dark Stone Grey","System: Decoration Elements",4175,"Ladder 1X2X2","http://cache.lego.com/media/bricks/5/1/4210801.jpg",54
-"60014-1",4540386,2,"Dark Stone Grey","System: Decoration Elements",61409,"Roof Tile W. Lattice 1X2X2/3","http://cache.lego.com/media/bricks/5/1/4540386.jpg",261
-"60014-1",4603504,2,"Dark Stone Grey","System: Decoration Elements",4175,"Ladder 1X2X2","http://cache.lego.com/media/bricks/5/1/4603504.jpg",33
-"60014-1",4211051,3,"Dark Stone Grey","System: Figure Accessories In Hand",30162,"Prismatic Binoculars","http://cache.lego.com/media/bricks/5/1/4211051.jpg",210
-"60014-1",4211079,1,"Dark Stone Grey","System: Figure Accessories In Hand",30192,"3-Hook","http://cache.lego.com/media/bricks/5/1/4211079.jpg",35
-"60014-1",6012812,2,"Dark Stone Grey","System: Figure Accessories, Upper And Lower Part",76116,"Bad Robot Arm","http://cache.lego.com/media/bricks/5/1/6012812.jpg",33
-"60014-1",4521886,1,"Dark Stone Grey","System: Frames, Windows, Walls And Doors",62113,"Lattice Plate 1X4X3","http://cache.lego.com/media/bricks/5/1/4521886.jpg",53
-"60014-1",4210706,1,"Dark Stone Grey","System: Plates",3029,"Plate 4X12","http://cache.lego.com/media/bricks/5/1/4210706.jpg",78
-"60014-1",4211094,2,"Dark Stone Grey","System: Plates",3022,"Plate 2X2","http://cache.lego.com/media/bricks/5/1/4211094.jpg",499
-"60014-1",4211119,4,"Dark Stone Grey","System: Plates",3794,"Plate 1X2 W. 1 Knob","http://cache.lego.com/media/bricks/5/1/4211119.jpg",232
-"60014-1",4211133,2,"Dark Stone Grey","System: Plates",3623,"Plate 1X3","http://cache.lego.com/media/bricks/5/1/4211133.jpg",280
-"60014-1",4256149,1,"Dark Stone Grey","System: Plates",3028,"Plate 6X12","http://cache.lego.com/media/bricks/5/1/4256149.jpg",73
-"60014-1",4210726,2,"Dark Stone Grey","System: Plates, Special",30383,"Plate 1X2 W/Stub/Along/Upper P","http://cache.lego.com/media/bricks/5/1/4210726.jpg",90
-"60014-1",4210967,3,"Dark Stone Grey","System: Plates, Special",4510,"Plate 1X8 With Rail","http://cache.lego.com/media/bricks/5/1/4210967.jpg",54
-"60014-1",4211129,1,"Dark Stone Grey","System: Plates, Special",2460,"Plate 2X2 W. Vertical Snap","http://cache.lego.com/media/bricks/5/1/4211129.jpg",107
-"60014-1",6019987,2,"Dark Stone Grey","System: Plates, Special",11458,"Plade 1X2 M. Van. Hul Ø 4,8","http://cache.lego.com/media/bricks/5/1/6019987.jpg",192
-"60014-1",4500517,2,"Dark Stone Grey","System: Plates, Special Circles And Angles",6003,"Plate 6X6 W. Bow","http://cache.lego.com/media/bricks/5/1/4500517.jpg",36
-"60014-1",4600437,4,"Dark Stone Grey","System: Rubbers And Strings",92338,"Chain 6 M","http://cache.lego.com/media/bricks/5/1/4600437.jpg",45
-"60014-1",4539297,2,"Dark Stone Grey","Technic: Beams, Special",64451,"Angle Beam 4X6","http://cache.lego.com/media/bricks/5/1/4539297.jpg",20
-"60014-1",4162916,1,"Earth Blue","System: Mini Figure",73200,"Mini Lower Part","http://cache.lego.com/media/bricks/5/1/4162916.jpg",237
-"60014-1",6005772,1,"Flame Yellowish Orange","System: Animals And Creatures",33121,"Crab","http://cache.lego.com/media/bricks/5/1/6005772.jpg",24
-"60014-1",4614195,1,"Medium Nougat","System: Animals And Creatures",93239,"Dog W. Deco","http://cache.lego.com/media/bricks/5/1/4614195.jpg",30
-"60014-1",4211511,1,"Medium Stone Grey","System: Bricks, Special",4733,"Brick 1X1 W. 4 Knobs","http://cache.lego.com/media/bricks/5/1/4211511.jpg",59
-"60014-1",4211726,2,"Medium Stone Grey","System: Connectors",41529,"Mini Claw W. Fork","http://cache.lego.com/media/bricks/5/1/4211726.jpg",16
-"60014-1",4211524,4,"Medium Stone Grey","System: Fences And Ladders",6140,"Hanger 1X6","http://cache.lego.com/media/bricks/5/1/4211524.jpg",30
-"60014-1",4211370,1,"Medium Stone Grey","System: Functional Elements",2585,"Drum Ø11","http://cache.lego.com/media/bricks/5/1/4211370.jpg",78
-"60014-1",6031891,3,"Medium Stone Grey","System: Mini Figure",76382,"Mini Upper Part No 2334","http://cache.lego.com/media/bricks/5/1/6031891.jpg",5
-"60014-1",4211350,9,"Medium Stone Grey","System: Plates",2412,"Radiator Grille 1X2","http://cache.lego.com/media/bricks/5/1/4211350.jpg",431
-"60014-1",4211837,1,"Medium Stone Grey","System: Plates",6179,"Plate 4X4 W. 4 Knobs","http://cache.lego.com/media/bricks/5/1/4211837.jpg",58
-"60014-1",4558169,2,"Medium Stone Grey","System: Plates",63864,"Flat Tile 1X3","http://cache.lego.com/media/bricks/5/1/4558169.jpg",155
-"60014-1",4211496,1,"Medium Stone Grey","System: Plates, Special",4488,"Bearing Element 2X2, Single","http://cache.lego.com/media/bricks/5/1/4211496.jpg",118
-"60014-1",4556157,2,"Medium Stone Grey","System: Plates, Special",60470,"Plate 1X2 W/Holder, Vertical","http://cache.lego.com/media/bricks/5/1/4556157.jpg",214
-"60014-1",6028812,1,"Medium Stone Grey","System: Plates, Special",11476,"Plate 1X2 W. 1 Horizontal Snap","http://cache.lego.com/media/bricks/5/1/6028812.jpg",170
-"60014-1",4515351,1,"Medium Stone Grey","System: Plates, Special Circles And Angles",60474,"Plate 4X4 Round W. Snap","http://cache.lego.com/media/bricks/5/1/4515351.jpg",101
-"60014-1",4226995,1,"Medium Stone Grey","System: Transportation Means, Vehicles",73081,"Console W. Wheel Grey/Black","http://cache.lego.com/media/bricks/5/1/4226995.jpg",136
-"60014-1",6005667,1,"Medium Stone Grey","System: Transportation Means, Vehicles",47755,"Plate 2X4X1 1/3 W. Side Bow","http://cache.lego.com/media/bricks/5/1/6005667.jpg",6
-"60014-1",6018081,1,"Medium Stone Grey","System: Wheel Base",10313,"Bearing Element 2X2, Single","http://cache.lego.com/media/bricks/5/1/6018081.jpg",89
-"60014-1",4211758,2,"Medium Stone Grey","Technic: Connectors",42610,"Hub Ø11,2 X 7,84","http://cache.lego.com/media/bricks/5/1/4211758.jpg",230
-"60014-1",4211807,1,"Medium Stone Grey","Technic: Connectors",3673,"Connector Peg","http://cache.lego.com/media/bricks/5/1/4211807.jpg",662
-"60014-1",4211815,4,"Medium Stone Grey","Technic: Connectors",4519,"Cross Axle 3M","http://cache.lego.com/media/bricks/5/1/4211815.jpg",841
-"60014-1",4113949,1,"Transparent","System: Bricks, Special Circles And Angles",30151,"Glass Case","http://cache.lego.com/media/bricks/5/1/4113949.jpg",65
-"60014-1",4113106,2,"Transparent","System: Frames, Windows, Walls And Doors",30010,"Wall Element 1X2X1 - Tr.","http://cache.lego.com/media/bricks/5/1/4113106.jpg",84
-"60014-1",6054554,2,"Transparent","System: Frames, Windows, Walls And Doors",15714,"Wall Element 1X2X1","http://cache.lego.com/media/bricks/5/1/6054554.jpg",42
-"60014-1",3005740,2,"Transparent","System: Plates, Special Circles And Angles",30057,"Round Plate 1X1 - Tr.","http://cache.lego.com/media/bricks/5/1/3005740.jpg",549
-"60014-1",4163306,1,"Transparent Brown","System: Figure, Head Clothing",2447,"Mini Visor 2","http://cache.lego.com/media/bricks/5/1/4163306.jpg",205
-"60014-1",4568173,1,"Transparent Fluorescent Green","System: Foodstuff",30222,"Ice Lolly","http://cache.lego.com/media/bricks/5/1/4568173.jpg",26
-"60014-1",4244573,1,"Transparent Green","System: Bricks, With Slope",50746,"Roof Tile 1 X 1 X 2/3","http://cache.lego.com/media/bricks/5/1/4244573.jpg",35
-"60014-1",3005748,2,"Transparent Green","System: Plates, Special Circles And Angles",30057,"Round Plate 1X1 - Tr.","http://cache.lego.com/media/bricks/5/1/3005748.jpg",353
-"60014-1",6066124,8,"Transparent Light Blue","System: Frames, Windows, Walls And Doors",15714,"Wall Element 1X2X1","http://cache.lego.com/media/bricks/5/1/6066124.jpg",48
-"60014-1",4583051,3,"Transparent Light Blue","System: Windscreens And Cockpits",89649,"Glas For Wall 2X8X2 Wry Inv.","http://cache.lego.com/media/bricks/5/1/4583051.jpg",5
-"60014-1",6009015,1,"Transparent Light Blue","System: Windscreens And Cockpits",72475,"Inverted Windscreen 3X4X4","http://cache.lego.com/media/bricks/5/1/6009015.jpg",11
-"60014-1",6019162,1,"Transparent Light Blue","System: Windscreens And Cockpits",11289,"Cockpit 4X4X4 2/3 W. Ø3.2 Shaft","http://cache.lego.com/media/bricks/5/1/6019162.jpg",26
-"60014-1",4244363,1,"Transparent Red","System: Bricks, With Slope",50746,"Roof Tile 1 X 1 X 2/3","http://cache.lego.com/media/bricks/5/1/4244363.jpg",209
-"60014-1",4497943,1,"Transparent Red","System: Figure Accessories In Hand",58176,"Couple W. 3.2 Stick","http://cache.lego.com/media/bricks/5/1/4497943.jpg",90
-"60014-1",3005741,2,"Transparent Red","System: Plates, Special Circles And Angles",30057,"Round Plate 1X1 - Tr.","http://cache.lego.com/media/bricks/5/1/3005741.jpg",948
-"60014-1",611644,3,"Transparent Yellow","System: Bricks, Special Circles And Angles",6116,"Brick 2X2 Round Ii","http://cache.lego.com/media/bricks/5/1/611644.jpg",81
-"60014-1",4194535,1,"Transparent Yellow","System: Plates",30070,"Flat Tile 1X2 - Tr","http://cache.lego.com/media/bricks/5/1/4194535.jpg",50
-"60014-1",3005744,6,"Transparent Yellow","System: Plates, Special Circles And Angles",30057,"Round Plate 1X1 - Tr.","http://cache.lego.com/media/bricks/5/1/3005744.jpg",503
-"60014-1",300501,2,"White","System: Bricks",3005,"Brick 1X1","http://cache.lego.com/media/bricks/5/1/300501.jpg",531
-"60014-1",611201,2,"White","System: Bricks",6112,"Brick 1X12","http://cache.lego.com/media/bricks/5/1/611201.jpg",78
-"60014-1",4583297,1,"White","System: Bricks With Bows And Arches",88930,"Plate W. Bow 2X4X2/3","http://cache.lego.com/media/bricks/5/1/4583297.jpg",46
-"60014-1",4143254,1,"White","System: Bricks, Special",30414,"Brick 1X4 W. 4 Knobs","http://cache.lego.com/media/bricks/5/1/4143254.jpg",110
-"60014-1",4194010,2,"White","System: Bricks, Special Circles And Angles",30361,"Round Brick 2X2X2","http://cache.lego.com/media/bricks/5/1/4194010.jpg",18
-"60014-1",4558956,1,"White","System: Bricks, Special Circles And Angles",87081,"Brick 4X4 Round W. Ø4.9 W. Kl.","http://cache.lego.com/media/bricks/5/1/4558956.jpg",21
-"60014-1",4649167,2,"White","System: Bricks, Special Circles And Angles",98100,"2X2 Round,Slope Brick W. Knob","http://cache.lego.com/media/bricks/5/1/4649167.jpg",18
-"60014-1",370101,4,"White","System: Bricks, Special Ø4.85 Hole And Connecting Bush",3701,"Technic Brick 1X4, Ø4,9","http://cache.lego.com/media/bricks/5/1/370101.jpg",81
-"60014-1",428601,4,"White","System: Bricks, With Slope",4286,"Roof Tile 1X3/25°","http://cache.lego.com/media/bricks/5/1/428601.jpg",164
-"60014-1",4121932,4,"White","System: Bricks, With Slope",3040,"Roof Tile 1X2/45°","http://cache.lego.com/media/bricks/5/1/4121932.jpg",317
-"60014-1",4234525,2,"White","System: Bricks, With Slope",3678,"Roof Tile 2X2X2/65 Deg.","http://cache.lego.com/media/bricks/5/1/4234525.jpg",52
-"60014-1",4261941,1,"White","System: Bricks, With Slope",82024,"Roof Tile 2X2, Radarc Los","http://cache.lego.com/media/bricks/5/1/4261941.jpg",45
-"60014-1",4288083,1,"White","System: Bricks, With Slope",55068,"Roof Tile 2X2/45° No. 13","http://cache.lego.com/media/bricks/5/1/4288083.jpg",52
-"60014-1",4515370,2,"White","System: Bricks, With Slope",60481,"Roof Tile 2X1X2","http://cache.lego.com/media/bricks/5/1/4515370.jpg",54
-"60014-1",4532972,4,"White","System: Bricks, With Slope",2449,"Roof Tile 1X2X3/74° Inv.","http://cache.lego.com/media/bricks/5/1/4532972.jpg",25
-"60014-1",4547489,3,"White","System: Bricks, With Slope",85984,"Roof Tile 1 X 2 X 2/3, Abs","http://cache.lego.com/media/bricks/5/1/4547489.jpg",205
-"60014-1",4658973,1,"White","System: Bricks, With Slope",72454,"Roof Tile 4X4/45° Inv.","http://cache.lego.com/media/bricks/5/1/4658973.jpg",33
-"60014-1",6032098,1,"White","System: Bricks, With Slope",55068,"Roof Tile 2X2/45° No. 13","http://cache.lego.com/media/bricks/5/1/6032098.jpg",19
-"60014-1",362401,1,"White","System: Figure, Head Clothing",3624,"Mini Cap","http://cache.lego.com/media/bricks/5/1/362401.jpg",33
-"60014-1",4298609,1,"White","System: Figure, Head Clothing",30124,"Mini Crash Helmet","http://cache.lego.com/media/bricks/5/1/4298609.jpg",143
-"60014-1",4163987,4,"White","System: Frames, Windows, Walls And Doors",6218,"Wall Element, Round 2X4X4","http://cache.lego.com/media/bricks/5/1/4163987.jpg",19
-"60014-1",4585458,4,"White","System: Frames, Windows, Walls And Doors",87552,"Wallelement 1X2X2","http://cache.lego.com/media/bricks/5/1/4585458.jpg",36
-"60014-1",6106024,4,"White","System: Frames, Windows, Walls And Doors",20430,"Wall Element, Round 2X4X4","http://cache.lego.com/media/bricks/5/1/6106024.jpg",13
-"60014-1",4612153,1,"White","System: Mini Figure",76382,"Mini Upper Part No. 1720","http://cache.lego.com/media/bricks/5/1/4612153.jpg",6
-"60014-1",243101,1,"White","System: Plates",2431,"Flat Tile 1X4","http://cache.lego.com/media/bricks/5/1/243101.jpg",391
-"60014-1",302301,4,"White","System: Plates",3023,"Plate 1X2","http://cache.lego.com/media/bricks/5/1/302301.jpg",799
-"60014-1",303401,1,"White","System: Plates",3034,"Plate 2X8","http://cache.lego.com/media/bricks/5/1/303401.jpg",261
-"60014-1",371001,1,"White","System: Plates",3710,"Plate 1X4","http://cache.lego.com/media/bricks/5/1/371001.jpg",677
-"60014-1",4243812,1,"White","System: Plates",3031,"Plate 4X4","http://cache.lego.com/media/bricks/5/1/4243812.jpg",125
-"60014-1",4514842,1,"White","System: Plates",60479,"Plate 1X12","http://cache.lego.com/media/bricks/5/1/4514842.jpg",68
-"60014-1",4565324,2,"White","System: Plates",87580,"Plate 2X2 W 1 Knob","http://cache.lego.com/media/bricks/5/1/4565324.jpg",52
-"60014-1",6126046,2,"White","System: Plates",23893,"Plate 2X2 W 1 Knob","http://cache.lego.com/media/bricks/5/1/6126046.jpg",62
-"60014-1",246001,1,"White","System: Plates, Special",2460,"Plate 2X2 W. Vertical Snap","http://cache.lego.com/media/bricks/5/1/246001.jpg",56
-"60014-1",4222017,5,"White","System: Plates, Special",48336,"Plate 1X2 W. Stick 3.18","http://cache.lego.com/media/bricks/5/1/4222017.jpg",121
-"60014-1",4598527,2,"White","System: Plates, Special",92280,"Plate 1X2 W. Vertical Grip","http://cache.lego.com/media/bricks/5/1/4598527.jpg",69
-"60014-1",4611700,4,"White","System: Plates, Special",88072,"Plate 1X2 W. Vertical Schaft","http://cache.lego.com/media/bricks/5/1/4611700.jpg",57
-"60014-1",245001,2,"White","System: Plates, Special Circles And Angles",2450,"Corner Plate  45 Deg. 3X3","http://cache.lego.com/media/bricks/5/1/245001.jpg",53
-"60014-1",415001,4,"White","System: Plates, Special Circles And Angles",4150,"Flat Tile 2X2, Round","http://cache.lego.com/media/bricks/5/1/415001.jpg",56
-"60014-1",614101,4,"White","System: Plates, Special Circles And Angles",6141,"Round Plate 1X1","http://cache.lego.com/media/bricks/5/1/614101.jpg",443
-"60014-1",4161326,1,"White","System: Plates, Special Circles And Angles",41770,"Left Plate 2X4 W/Angle","http://cache.lego.com/media/bricks/5/1/4161326.jpg",136
-"60014-1",4179580,1,"White","System: Plates, Special Circles And Angles",43898,"Parabolic Reflector Ø24X6,4","http://cache.lego.com/media/bricks/5/1/4179580.jpg",71
-"60014-1",6044691,4,"White","System: Plates, Special Circles And Angles",14769,"Flat Tile 2X2, Round","http://cache.lego.com/media/bricks/5/1/6044691.jpg",84
-"60014-1",6123924,1,"White","System: Rubbers And Strings",23198,"100% Polyester Yarn Ø0,5Mm,0,5M","http://cache.lego.com/media/bricks/4/1/6123924.jpg",32
-"60014-1",73737,1,"White","System: Signs, Flags And Poles",73587,"Mini Antenna Wh/Bla.Ass","http://cache.lego.com/media/bricks/5/1/73737.jpg",170
-"60014-1",4538720,1,"White","System: Signs, Flags And Poles",63965,"Stick 6M W/Flange","http://cache.lego.com/media/bricks/5/1/4538720.jpg",79
-"60014-1",234001,4,"White","System: Transportation Means, Aviation",2340,"Rudder 1X4X3","http://cache.lego.com/media/bricks/5/1/234001.jpg",48
-"60014-1",4288960,1,"White","System: Transportation Means, Aviation",44661,"Rudder 2X3X2","http://cache.lego.com/media/bricks/5/1/4288960.jpg",54
-"60014-1",6034503,1,"White","System: Transportation Means, Ships",62792,"Hull 14X51X6 Assembled","http://cache.lego.com/media/bricks/5/1/6034503.jpg",1
-"60014-1",4583049,3,"White","System: Windscreens And Cockpits",89648,"Wall 2X8X2 Wry Inv. W. Wind.","http://cache.lego.com/media/bricks/5/1/4583049.jpg",6
-"60014-1",6035082,1,"White","System: Windscreens And Cockpits",64634,"Windscreen 8X5X2 Abs","http://cache.lego.com/media/bricks/5/1/6035082.jpg",4
+"60014-1",247926,1,"Black","System",2479,"Rotor","https://www.lego.com/service/bricks/5/2/247926",154
+"60014-1",258426,1,"Black","System",2584,"Drum Holder 2X2","https://www.lego.com/service/bricks/5/2/258426",90
+"60014-1",300326,10,"Black","System",3003,"Brick 2X2","https://www.lego.com/service/bricks/5/2/300326",569
+"60014-1",317626,2,"Black","System",3176,"Coupling Plate 2X2","https://www.lego.com/service/bricks/5/2/317626",150
+"60014-1",383926,1,"Black","System",3839,"Mini Handle","https://www.lego.com/service/bricks/5/2/383926",175
+"60014-1",395726,1,"Black","System",3957,"Whip/Aerial","https://www.lego.com/service/bricks/5/2/395726",234
+"60014-1",403226,1,"Black","System",4032,"Plate 2X2 Round","https://www.lego.com/service/bricks/5/2/403226",458
+"60014-1",407926,2,"Black","System",4079,"Seat 2X2X2","https://www.lego.com/service/bricks/5/2/407926",92
+"60014-1",604126,3,"Black","System",6041,"Propeller W. 3 Blades Ã˜26.6","https://www.lego.com/service/bricks/5/2/604126",95
+"60014-1",4144023,1,"Black","System",32529,"T-Beam W. Plate 1X2 W. Knob","https://www.lego.com/service/bricks/5/2/4144023",62
+"60014-1",4159335,2,"Black","System",41532,"Stub W. Friction Bush 3 M","https://www.lego.com/service/bricks/5/2/4159335",167
+"60014-1",4217725,1,"Black","System",47720,"Plate 2X2 (4M) W. Snap Ã˜4.85","https://www.lego.com/service/bricks/5/2/4217725",69
+"60014-1",4278359,4,"Black","System",2654,"Slide Shoe Round 2X2","https://www.lego.com/service/bricks/5/2/4278359",308
+"60014-1",4289255,1,"Black","System",2421,"Propeller","https://www.lego.com/service/bricks/5/2/4289255",61
+"60014-1",4507820,2,"Black","System",30554,"Link 1M Fric/Fork/Stumpf","https://www.lego.com/service/bricks/5/2/4507820",54
+"60014-1",4535739,6,"Black","System",63868,"Plate 2X1 W/Holder,Vertical","https://www.lego.com/service/bricks/5/2/4535739",203
+"60014-1",4647286,2,"Black","System",93606,"Brick W. Bow 2X4","https://www.lego.com/service/bricks/5/2/4647286",54
+"60014-1",4660876,2,"Black","System",98302,"Jet Engine","https://www.lego.com/service/bricks/5/2/4660876",20
+"60014-1",6007896,2,"Black","System",98560,"Roof Tile 2X2X3/ 73 Gr.","https://www.lego.com/service/bricks/5/2/6007896",17
+"60014-1",6020193,1,"Black","System",99780,"Angular Plate 1.5 Bot. 1X2 1/2","https://www.lego.com/service/bricks/5/2/6020193",199
+"60014-1",6021604,1,"Black","System",10885,"Plate 1X2 W. Radiator","https://www.lego.com/service/bricks/5/2/6021604",6
+"60014-1",6021752,1,"Black","System",44675,"2X2 Front With Suction","https://www.lego.com/service/bricks/5/2/6021752",33
+"60014-1",6036006,1,"Black","System",14045,"Headset W. Shaft Ã˜1.5","https://www.lego.com/service/bricks/5/2/6036006",18
+"60014-1",6040336,2,"Black","System",14137,"Flap 2X8 Friction/Fork","https://www.lego.com/service/bricks/5/2/6040336",23
+"60014-1",6100054,1,"Black","System",19220,"Walkie-Talkie","https://www.lego.com/service/bricks/5/2/6100054",112
+"60014-1",6145492,1,"Black","System",23198,"100% Polyester Yarn Ã˜0,5Mm,0,5M","https://www.lego.com/service/bricks/5/2/6145492",27
+"60014-1",370526,1,"Black","Technic",3705,"Cross Axle 4M","https://www.lego.com/service/bricks/5/2/370526",1015
+"60014-1",370726,2,"Black","Technic",3707,"Cross Axle 8M","https://www.lego.com/service/bricks/5/2/370726",516
+"60014-1",4121715,6,"Black","Technic",2780,"Connector Peg W. Friction","https://www.lego.com/service/bricks/5/2/4121715",1889
+"60014-1",4238840,2,"Black","Technic",48496,"Double Snap 2M, Ã˜ 4,85","https://www.lego.com/service/bricks/5/2/4238840",22
+"60014-1",4666579,2,"Brick Yellow","Technic",6562,"Connector Peg/Cross Axle","https://www.lego.com/service/bricks/5/2/4666579",714
+"60014-1",9341,4,"Bright Blue","System",73200,"Mini Body Lowerpart Blue","https://www.lego.com/service/bricks/5/2/9341",412
+"60014-1",241223,10,"Bright Blue","System",2412,"Radiator Grille 1X2","https://www.lego.com/service/bricks/5/2/241223",123
+"60014-1",302123,2,"Bright Blue","System",3021,"Plate 2X3","https://www.lego.com/service/bricks/5/2/302123",293
+"60014-1",303423,2,"Bright Blue","System",3034,"Plate 2X8","https://www.lego.com/service/bricks/5/2/303423",128
+"60014-1",371023,4,"Bright Blue","System",3710,"Plate 1X4","https://www.lego.com/service/bricks/5/2/371023",363
+"60014-1",407923,2,"Bright Blue","System",4079,"Seat 2X2X2","https://www.lego.com/service/bricks/5/2/407923",120
+"60014-1",447723,1,"Bright Blue","System",4477,"Plate 1X10","https://www.lego.com/service/bricks/5/2/447723",80
+"60014-1",4118785,3,"Bright Blue","System",6636,"Flat Tile 1X6","https://www.lego.com/service/bricks/5/2/4118785",74
+"60014-1",4498155,1,"Bright Blue","System",43722,"Right Plate 2X3 W/Angle","https://www.lego.com/service/bricks/5/2/4498155",41
+"60014-1",4498156,1,"Bright Blue","System",43723,"Left Plate 2X3 W/Angle","https://www.lego.com/service/bricks/5/2/4498156",40
+"60014-1",4565319,5,"Bright Blue","System",87580,"Plate 2X2 W 1 Knob","https://www.lego.com/service/bricks/5/2/4565319",30
+"60014-1",4597338,4,"Bright Blue","System",61409,"Roof Tile W. Lattice 1X2X2/3","https://www.lego.com/service/bricks/5/2/4597338",33
+"60014-1",4610354,1,"Bright Blue","System",92438,"Plate 8X16","https://www.lego.com/service/bricks/5/2/4610354",12
+"60014-1",6032176,2,"Bright Blue","System",11303,"Figur Head Clothing No 6","https://www.lego.com/service/bricks/5/2/6032176",25
+"60014-1",4514553,2,"Bright Blue","Technic",6558,"Connector Peg W. Friction 3M","https://www.lego.com/service/bricks/5/2/4514553",678
+"60014-1",6034492,1,"Bright Green","System",62812,"Rubber Boat 22X10X3","https://www.lego.com/service/bricks/5/2/6034492",1
+"60014-1",4118782,2,"Bright Orange","System",3710,"Plate 1X4","https://www.lego.com/service/bricks/5/2/4118782",120
+"60014-1",4118828,6,"Bright Orange","System",3039,"Roof Tile 2X2/45Â°","https://www.lego.com/service/bricks/5/2/4118828",66
+"60014-1",4141089,12,"Bright Orange","System",6143,"Brick Ã˜16 W. Cross","https://www.lego.com/service/bricks/5/2/4141089",42
+"60014-1",4153827,2,"Bright Orange","System",3001,"Brick 2X4","https://www.lego.com/service/bricks/5/2/4153827",113
+"60014-1",4158355,2,"Bright Orange","System",3020,"Plate 2X4","https://www.lego.com/service/bricks/5/2/4158355",158
+"60014-1",4177932,3,"Bright Orange","System",3023,"Plate 1X2","https://www.lego.com/service/bricks/5/2/4177932",176
+"60014-1",4180417,1,"Bright Orange","System",43710,"Roof Tile 2X4 W/Angle, L","https://www.lego.com/service/bricks/5/2/4180417",7
+"60014-1",4180427,1,"Bright Orange","System",43711,"Roof Tile 2X4 W/Angle, Right","https://www.lego.com/service/bricks/5/2/4180427",7
+"60014-1",4190164,1,"Bright Orange","System",2540,"Plate 1X2 W. Stick","https://www.lego.com/service/bricks/5/2/4190164",43
+"60014-1",4214921,1,"Bright Orange","System",73200,"Mini Lower Part Koks/Orange","https://www.lego.com/service/bricks/5/2/4214921",33
+"60014-1",4251969,2,"Bright Orange","System",50950,"Brick W/Bow 1/3","https://www.lego.com/service/bricks/5/2/4251969",31
+"60014-1",4532970,12,"Bright Orange","System",30367,"Final Brick 2X2","https://www.lego.com/service/bricks/5/2/4532970",22
+"60014-1",4580475,1,"Bright Orange","System",76382,"Mini Upper Part No. 1585","https://www.lego.com/service/bricks/5/2/4580475",15
+"60014-1",4650690,8,"Bright Orange","System",6636,"Flat Tile 1X6","https://www.lego.com/service/bricks/5/2/4650690",23
+"60014-1",4654448,1,"Bright Orange","System",96874,"Element Seperator","https://www.lego.com/service/bricks/5/2/4654448",424
+"60014-1",6034497,1,"Bright Orange","System",3033,"Plate 6X10","https://www.lego.com/service/bricks/5/2/6034497",9
+"60014-1",6035126,1,"Bright Orange","System",76382,"Mini Upper Part No 2351","https://www.lego.com/service/bricks/5/2/6035126",4
+"60014-1",6037414,3,"Bright Orange","System",92411,"Angle Plate 1X2 / 2X2","https://www.lego.com/service/bricks/5/2/6037414",15
+"60014-1",4538144,2,"Bright Orange","Technic",62462,"Tube W/Double Ã˜4.85","https://www.lego.com/service/bricks/5/2/4538144",10
+"60014-1",389921,1,"Bright Red","System",3899,"Mug","https://www.lego.com/service/bricks/5/2/389921",206
+"60014-1",4562544,1,"Bright Red","System",86035,"Mini U.S. Cap","https://www.lego.com/service/bricks/5/2/4562544",70
+"60014-1",4610843,2,"Bright Red","System",87081,"Brick 4X4 Round W. Ã˜4.9 W. Kl.","https://www.lego.com/service/bricks/5/2/4610843",15
+"60014-1",9553,1,"Bright Yellow","System",73081,"Console W/St Wheel Ye/Bl","https://www.lego.com/service/bricks/5/2/9553",194
+"60014-1",74156,5,"Bright Yellow","System",73587,"Mini Antenna Yell./Black","https://www.lego.com/service/bricks/5/2/74156",139
+"60014-1",306824,1,"Bright Yellow","System",3068,"Flat Tile 2X2","https://www.lego.com/service/bricks/5/2/306824",157
+"60014-1",366624,1,"Bright Yellow","System",3666,"Plate 1X6","https://www.lego.com/service/bricks/5/2/366624",203
+"60014-1",486524,2,"Bright Yellow","System",4865,"Wall Element 1X2X1","https://www.lego.com/service/bricks/5/2/486524",66
+"60014-1",4124458,2,"Bright Yellow","System",2569,"Antenna 1X1X8","https://www.lego.com/service/bricks/5/2/4124458",11
+"60014-1",4215263,2,"Bright Yellow","System",2516,"Tool Holder","https://www.lego.com/service/bricks/5/2/4215263",22
+"60014-1",4261301,1,"Bright Yellow","System",51521,"Mini Head No. 386","https://www.lego.com/service/bricks/5/2/4261301",34
+"60014-1",4261572,1,"Bright Yellow","System",51523,"Mini Head No. 389","https://www.lego.com/service/bricks/5/2/4261572",104
+"60014-1",4525464,2,"Bright Yellow","System",59900,"Nose Cone Small 1X1","https://www.lego.com/service/bricks/5/2/4525464",98
+"60014-1",4527354,2,"Bright Yellow","System",30340,"Lifebuoy With Knob","https://www.lego.com/service/bricks/5/2/4527354",35
+"60014-1",4558172,4,"Bright Yellow","System",63864,"Flat Tile 1X3","https://www.lego.com/service/bricks/5/2/4558172",53
+"60014-1",4611704,2,"Bright Yellow","System",88072,"Plate 1X2 W. Vertical Schaft","https://www.lego.com/service/bricks/5/2/4611704",31
+"60014-1",4612112,1,"Bright Yellow","System",4289,"Lantern Mast 2X2X3","https://www.lego.com/service/bricks/5/2/4612112",3
+"60014-1",4648281,5,"Bright Yellow","System",97895,"Life Jacket","https://www.lego.com/service/bricks/5/2/4648281",49
+"60014-1",4651441,1,"Bright Yellow","System",99566,"Mini Head No 891","https://www.lego.com/service/bricks/5/2/4651441",90
+"60014-1",4651443,1,"Bright Yellow","System",99570,"Mini Head No. 893","https://www.lego.com/service/bricks/5/2/4651443",105
+"60014-1",6112622,1,"Bright Yellow","System",21023,"Mini Head 'No. 1663'","https://www.lego.com/service/bricks/5/2/6112622",39
+"60014-1",6112633,1,"Bright Yellow","System",21027,"Mini Head 'No. 1666'","https://www.lego.com/service/bricks/5/2/6112633",16
+"60014-1",4526983,2,"Bright Yellow","Technic",62462,"Tube W/Double Ã˜4.85","https://www.lego.com/service/bricks/5/2/4526983",27
+"60014-1",4568934,1,"Dark Brown","System",88283,"Mini Wig No. 8","https://www.lego.com/service/bricks/5/2/4568934",24
+"60014-1",4210637,3,"Dark Stone Grey","System",30363,"Roof Tile 2X4X1, 18Â°","https://www.lego.com/service/bricks/5/2/4210637",73
+"60014-1",4210706,1,"Dark Stone Grey","System",3029,"Plate 4X12","https://www.lego.com/service/bricks/5/2/4210706",82
+"60014-1",4210726,2,"Dark Stone Grey","System",30383,"Plate 1X2 W/Stub/Along/Upper P","https://www.lego.com/service/bricks/5/2/4210726",99
+"60014-1",4210967,3,"Dark Stone Grey","System",4510,"Plate 1X8 With Rail","https://www.lego.com/service/bricks/5/2/4210967",61
+"60014-1",4211051,3,"Dark Stone Grey","System",30162,"Prismatic Binoculars","https://www.lego.com/service/bricks/5/2/4211051",235
+"60014-1",4211079,1,"Dark Stone Grey","System",30192,"3-Hook","https://www.lego.com/service/bricks/5/2/4211079",44
+"60014-1",4211085,5,"Dark Stone Grey","System",3001,"Brick 2X4","https://www.lego.com/service/bricks/5/2/4211085",270
+"60014-1",4211094,2,"Dark Stone Grey","System",3022,"Plate 2X2","https://www.lego.com/service/bricks/5/2/4211094",562
+"60014-1",4211111,1,"Dark Stone Grey","System",3700,"Technic Brick 1X2, Ã˜4.9","https://www.lego.com/service/bricks/5/2/4211111",237
+"60014-1",4211119,4,"Dark Stone Grey","System",3794,"Plate 1X2 W. 1 Knob","https://www.lego.com/service/bricks/5/2/4211119",230
+"60014-1",4211129,1,"Dark Stone Grey","System",2460,"Plate 2X2 W. Vertical Snap","https://www.lego.com/service/bricks/5/2/4211129",119
+"60014-1",4211133,2,"Dark Stone Grey","System",3623,"Plate 1X3","https://www.lego.com/service/bricks/5/2/4211133",325
+"60014-1",4211135,5,"Dark Stone Grey","System",3040,"Roof Tile 1X2/45Â°","https://www.lego.com/service/bricks/5/2/4211135",289
+"60014-1",4256149,1,"Dark Stone Grey","System",3028,"Plate 6X12","https://www.lego.com/service/bricks/5/2/4256149",83
+"60014-1",4500517,2,"Dark Stone Grey","System",6003,"Plate 6X6 W. Bow","https://www.lego.com/service/bricks/5/2/4500517",38
+"60014-1",4513326,2,"Dark Stone Grey","System",54782,"Wall Element 2X4X6, Mountain","https://www.lego.com/service/bricks/5/2/4513326",52
+"60014-1",4521886,1,"Dark Stone Grey","System",62113,"Lattice Plate 1X4X3","https://www.lego.com/service/bricks/5/2/4521886",58
+"60014-1",4540386,2,"Dark Stone Grey","System",61409,"Roof Tile W. Lattice 1X2X2/3","https://www.lego.com/service/bricks/5/2/4540386",289
+"60014-1",4600437,4,"Dark Stone Grey","System",92338,"Chain 6 M","https://www.lego.com/service/bricks/5/2/4600437",55
+"60014-1",4603504,2,"Dark Stone Grey","System",4175,"Ladder 1X2X2","https://www.lego.com/service/bricks/5/2/4603504",59
+"60014-1",4648256,1,"Dark Stone Grey","System",93273,"Plate W. Bow 1X4X2/3","https://www.lego.com/service/bricks/5/2/4648256",113
+"60014-1",6012812,2,"Dark Stone Grey","System",76116,"Bad Robot Arm","https://www.lego.com/service/bricks/5/2/6012812",38
+"60014-1",6019987,2,"Dark Stone Grey","System",11458,"Plade 1X2 M. Van. Hul Ã˜ 4,8","https://www.lego.com/service/bricks/5/2/6019987",230
+"60014-1",6044722,3,"Dark Stone Grey","System",14518,"Shark Body 6X9","https://www.lego.com/service/bricks/5/2/6044722",19
+"60014-1",6107827,3,"Dark Stone Grey","System",20650,"Shark, Jaw 'No. 1'","https://www.lego.com/service/bricks/5/2/6107827",18
+"60014-1",4539297,2,"Dark Stone Grey","Technic",64451,"Angle Beam 4X6","https://www.lego.com/service/bricks/5/2/4539297",13
+"60014-1",4162916,1,"Earth Blue","System",73200,"Mini Lower Part","https://www.lego.com/service/bricks/5/2/4162916",278
+"60014-1",6005772,1,"Flame Yellowish Orange","System",33121,"Crab","https://www.lego.com/service/bricks/5/2/6005772",28
+"60014-1",4614195,1,"Medium Nougat","System",93239,"Dog W. Deco","https://www.lego.com/service/bricks/5/2/4614195",32
+"60014-1",4211350,9,"Medium Stone Grey","System",2412,"Radiator Grille 1X2","https://www.lego.com/service/bricks/5/2/4211350",484
+"60014-1",4211370,1,"Medium Stone Grey","System",2585,"Drum Ã˜11","https://www.lego.com/service/bricks/5/2/4211370",86
+"60014-1",4211511,1,"Medium Stone Grey","System",4733,"Brick 1X1 W. 4 Knobs","https://www.lego.com/service/bricks/5/2/4211511",67
+"60014-1",4211524,4,"Medium Stone Grey","System",6140,"Hanger 1X6","https://www.lego.com/service/bricks/5/2/4211524",32
+"60014-1",4211726,2,"Medium Stone Grey","System",41529,"Mini Claw W. Fork","https://www.lego.com/service/bricks/5/2/4211726",17
+"60014-1",4211837,1,"Medium Stone Grey","System",6179,"Plate 4X4 W. 4 Knobs","https://www.lego.com/service/bricks/5/2/4211837",67
+"60014-1",4226995,1,"Medium Stone Grey","System",73081,"Console W. Wheel Grey/Black","https://www.lego.com/service/bricks/5/2/4226995",151
+"60014-1",4515351,1,"Medium Stone Grey","System",60474,"Plate 4X4 Round W. Snap","https://www.lego.com/service/bricks/5/2/4515351",117
+"60014-1",4556157,2,"Medium Stone Grey","System",60470,"Plate 1X2 W/Holder, Vertical","https://www.lego.com/service/bricks/5/2/4556157",249
+"60014-1",4558169,2,"Medium Stone Grey","System",63864,"Flat Tile 1X3","https://www.lego.com/service/bricks/5/2/4558169",181
+"60014-1",6005667,1,"Medium Stone Grey","System",47755,"Plate 2X4X1 1/3 W. Side Bow","https://www.lego.com/service/bricks/5/2/6005667",6
+"60014-1",6018081,1,"Medium Stone Grey","System",10313,"Bearing Element 2X2, Single","https://www.lego.com/service/bricks/5/2/6018081",131
+"60014-1",6028812,1,"Medium Stone Grey","System",11476,"Plate 1X2 W. 1 Horizontal Snap","https://www.lego.com/service/bricks/5/2/6028812",210
+"60014-1",6031891,3,"Medium Stone Grey","System",76382,"Mini Upper Part No 2334","https://www.lego.com/service/bricks/5/2/6031891",5
+"60014-1",4211758,2,"Medium Stone Grey","Technic",42610,"Hub Ã˜11,2 X 7,84","https://www.lego.com/service/bricks/5/2/4211758",245
+"60014-1",4211807,1,"Medium Stone Grey","Technic",3673,"Connector Peg","https://www.lego.com/service/bricks/5/2/4211807",741
+"60014-1",4211815,4,"Medium Stone Grey","Technic",4519,"Cross Axle 3M","https://www.lego.com/service/bricks/5/2/4211815",894
+"60014-1",3005740,2,"Transparent","System",30057,"Round Plate 1X1 - Tr.","https://www.lego.com/service/bricks/5/2/3005740",565
+"60014-1",4113949,1,"Transparent","System",30151,"Glass Case","https://www.lego.com/service/bricks/5/2/4113949",49
+"60014-1",6054554,2,"Transparent","System",15714,"Wall Element 1X2X1","https://www.lego.com/service/bricks/5/2/6054554",97
+"60014-1",4163306,1,"Transparent Brown","System",2447,"Mini Visor 2","https://www.lego.com/service/bricks/5/2/4163306",214
+"60014-1",4568173,1,"Transparent Fluorescent Green","System",30222,"Ice Lolly","https://www.lego.com/service/bricks/5/2/4568173",29
+"60014-1",3005748,2,"Transparent Green","System",30057,"Round Plate 1X1 - Tr.","https://www.lego.com/service/bricks/5/2/3005748",365
+"60014-1",4244573,1,"Transparent Green","System",50746,"Roof Tile 1 X 1 X 2/3","https://www.lego.com/service/bricks/5/2/4244573",36
+"60014-1",4583051,3,"Transparent Light Blue","System",89649,"Glas For Wall 2X8X2 Wry Inv.","https://www.lego.com/service/bricks/5/2/4583051",6
+"60014-1",6009015,1,"Transparent Light Blue","System",72475,"Inverted Windscreen 3X4X4","https://www.lego.com/service/bricks/5/2/6009015",11
+"60014-1",6019162,1,"Transparent Light Blue","System",11289,"Cockpit 4X4X4 2/3 W. Ã˜3.2 Shaft","https://www.lego.com/service/bricks/5/2/6019162",32
+"60014-1",6066124,8,"Transparent Light Blue","System",15714,"Wall Element 1X2X1","https://www.lego.com/service/bricks/5/2/6066124",56
+"60014-1",3005741,2,"Transparent Red","System",30057,"Round Plate 1X1 - Tr.","https://www.lego.com/service/bricks/5/2/3005741",987
+"60014-1",4244363,1,"Transparent Red","System",50746,"Roof Tile 1 X 1 X 2/3","https://www.lego.com/service/bricks/5/2/4244363",219
+"60014-1",4497943,1,"Transparent Red","System",58176,"Couple W. 3.2 Stick","https://www.lego.com/service/bricks/5/2/4497943",102
+"60014-1",611644,3,"Transparent Yellow","System",6116,"Brick 2X2 Round Ii","https://www.lego.com/service/bricks/5/2/611644",89
+"60014-1",3005744,6,"Transparent Yellow","System",30057,"Round Plate 1X1 - Tr.","https://www.lego.com/service/bricks/5/2/3005744",525
+"60014-1",4194535,1,"Transparent Yellow","System",30070,"Flat Tile 1X2 - Tr","https://www.lego.com/service/bricks/5/2/4194535",58
+"60014-1",73737,1,"White","System",73587,"Mini Antenna Wh/Bla.Ass","https://www.lego.com/service/bricks/5/2/73737",176
+"60014-1",234001,4,"White","System",2340,"Rudder 1X4X3","https://www.lego.com/service/bricks/5/2/234001",50
+"60014-1",243101,1,"White","System",2431,"Flat Tile 1X4","https://www.lego.com/service/bricks/5/2/243101",437
+"60014-1",245001,2,"White","System",2450,"Corner Plate  45 Deg. 3X3","https://www.lego.com/service/bricks/5/2/245001",60
+"60014-1",246001,1,"White","System",2460,"Plate 2X2 W. Vertical Snap","https://www.lego.com/service/bricks/5/2/246001",62
+"60014-1",300501,2,"White","System",3005,"Brick 1X1","https://www.lego.com/service/bricks/5/2/300501",582
+"60014-1",302301,4,"White","System",3023,"Plate 1X2","https://www.lego.com/service/bricks/5/2/302301",894
+"60014-1",303401,1,"White","System",3034,"Plate 2X8","https://www.lego.com/service/bricks/5/2/303401",286
+"60014-1",362401,1,"White","System",3624,"Mini Cap","https://www.lego.com/service/bricks/5/2/362401",34
+"60014-1",370101,4,"White","System",3701,"Technic Brick 1X4, Ã˜4,9","https://www.lego.com/service/bricks/5/2/370101",89
+"60014-1",371001,1,"White","System",3710,"Plate 1X4","https://www.lego.com/service/bricks/5/2/371001",738
+"60014-1",415001,4,"White","System",4150,"Flat Tile 2X2, Round","https://www.lego.com/service/bricks/5/2/415001",50
+"60014-1",428601,4,"White","System",4286,"Roof Tile 1X3/25Â°","https://www.lego.com/service/bricks/5/2/428601",169
+"60014-1",611201,2,"White","System",6112,"Brick 1X12","https://www.lego.com/service/bricks/5/2/611201",85
+"60014-1",614101,4,"White","System",6141,"Round Plate 1X1","https://www.lego.com/service/bricks/5/2/614101",502
+"60014-1",4121932,4,"White","System",3040,"Roof Tile 1X2/45Â°","https://www.lego.com/service/bricks/5/2/4121932",352
+"60014-1",4143254,1,"White","System",30414,"Brick 1X4 W. 4 Knobs","https://www.lego.com/service/bricks/5/2/4143254",123
+"60014-1",4161326,1,"White","System",41770,"Left Plate 2X4 W/Angle","https://www.lego.com/service/bricks/5/2/4161326",142
+"60014-1",4179580,1,"White","System",43898,"Parabolic Reflector Ã˜24X6,4","https://www.lego.com/service/bricks/5/2/4179580",75
+"60014-1",4194010,2,"White","System",30361,"Round Brick 2X2X2","https://www.lego.com/service/bricks/5/2/4194010",19
+"60014-1",4222017,5,"White","System",48336,"Plate 1X2 W. Stick 3.18","https://www.lego.com/service/bricks/5/2/4222017",141
+"60014-1",4234525,2,"White","System",3678,"Roof Tile 2X2X2/65 Deg.","https://www.lego.com/service/bricks/5/2/4234525",58
+"60014-1",4243812,1,"White","System",3031,"Plate 4X4","https://www.lego.com/service/bricks/5/2/4243812",167
+"60014-1",4261941,1,"White","System",82024,"Roof Tile 2X2, Radarc Los","https://www.lego.com/service/bricks/5/2/4261941",49
+"60014-1",4288083,1,"White","System",55068,"Roof Tile 2X2/45Â° No. 13","https://www.lego.com/service/bricks/5/2/4288083",55
+"60014-1",4288960,1,"White","System",44661,"Rudder 2X3X2","https://www.lego.com/service/bricks/5/2/4288960",57
+"60014-1",4298609,1,"White","System",30124,"Mini Crash Helmet","https://www.lego.com/service/bricks/5/2/4298609",214
+"60014-1",4514842,1,"White","System",60479,"Plate 1X12","https://www.lego.com/service/bricks/5/2/4514842",75
+"60014-1",4515370,2,"White","System",60481,"Roof Tile 2X1X2","https://www.lego.com/service/bricks/5/2/4515370",60
+"60014-1",4532972,4,"White","System",2449,"Roof Tile 1X2X3/74Â° Inv.","https://www.lego.com/service/bricks/5/2/4532972",30
+"60014-1",4547489,3,"White","System",85984,"Roof Tile 1 X 2 X 2/3, Abs","https://www.lego.com/service/bricks/5/2/4547489",248
+"60014-1",4558956,1,"White","System",87081,"Brick 4X4 Round W. Ã˜4.9 W. Kl.","https://www.lego.com/service/bricks/5/2/4558956",23
+"60014-1",4583049,3,"White","System",89648,"Wall 2X8X2 Wry Inv. W. Wind.","https://www.lego.com/service/bricks/5/2/4583049",6
+"60014-1",4583297,1,"White","System",88930,"Plate W. Bow 2X4X2/3","https://www.lego.com/service/bricks/5/2/4583297",55
+"60014-1",4585458,4,"White","System",87552,"Wallelement 1X2X2","https://www.lego.com/service/bricks/5/2/4585458",41
+"60014-1",4598527,2,"White","System",92280,"Plate 1X2 W. Vertical Grip","https://www.lego.com/service/bricks/5/2/4598527",87
+"60014-1",4611700,4,"White","System",88072,"Plate 1X2 W. Vertical Schaft","https://www.lego.com/service/bricks/5/2/4611700",64
+"60014-1",4612153,1,"White","System",76382,"Mini Upper Part No. 1720","https://www.lego.com/service/bricks/5/2/4612153",7
+"60014-1",4649167,2,"White","System",98100,"2X2 Round,Slope Brick W. Knob","https://www.lego.com/service/bricks/5/2/4649167",28
+"60014-1",4658973,1,"White","System",72454,"Roof Tile 4X4/45Â° Inv.","https://www.lego.com/service/bricks/5/2/4658973",35
+"60014-1",6034503,1,"White","System",62792,"Hull 14X51X6 Assembled","https://www.lego.com/service/bricks/5/2/6034503",1
+"60014-1",6035082,1,"White","System",64634,"Windscreen 8X5X2 Abs","https://www.lego.com/service/bricks/5/2/6035082",2
+"60014-1",6081986,1,"White","System",18274,"Stick 6M W/Flange","https://www.lego.com/service/bricks/5/2/6081986",97
+"60014-1",6106024,4,"White","System",20430,"Wall Element, Round 2X4X4","https://www.lego.com/service/bricks/5/2/6106024",14
+"60014-1",6126046,2,"White","System",23893,"Plate 2X2 W 1 Knob","https://www.lego.com/service/bricks/5/2/6126046",79
